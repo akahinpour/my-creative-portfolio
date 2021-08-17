@@ -4,6 +4,6 @@ Using an SVG as the top layer of a video, you will experience an interactive int
 You can control the video portfolio, by using the mouse wheel and or by clicking on the timeline.
 The design and functionality of the timeline are inspired by Soundcloud's interactive timeline. You can also skip parts of the video by clicking on the categories at the bottom of the timeline.
 
-I hope you enjoy it and please let me know if you had any suggestions or comments.
+I hope you enjoy it and please let me know if you have any questions or comments.
 
 Thank you
