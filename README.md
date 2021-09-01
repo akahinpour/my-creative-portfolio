@@ -1,6 +1,7 @@
 
 
-https://user-images.githubusercontent.com/39169803/131682734-d99d3879-02ab-408f-bfbf-69b4347c6ea4.mp4
+https://user-images.githubusercontent.com/39169803/131682861-84827f94-2577-4dbc-9973-69f6c2165814.mp4
+
 
 # Creative Portfolio
 This portfolio is an attempt to introduce a new way of presenting portfolios: In an interactive video format.
